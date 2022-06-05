@@ -10,7 +10,7 @@
 	<!-- custom css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 
-	<title>Pic-A-Pic</title>
+	<title>U08A</title>
 	<!--
 	 Livingston Vincent U08A
 		What objectives are you demonstrating?
@@ -19,7 +19,7 @@
 	-Demonstrate the difference between POST and GET methods on transmitting data
 	-Demonstrate common PHP operators, conditional statements, and loops
 	-Demonstrate a simple client/server event with PHP and a Web page
--->
+	-->
 </head>
 <body>
  	
