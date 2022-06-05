@@ -1,0 +1,36 @@
+body {
+	background: rgb(131,58,180);
+	background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+h1 {
+	margin-top: 50px;
+	color: #fff;
+}
+
+.section {
+    background: #f1f1f1;
+    padding: 30px 15px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 2px 5px 20px rgb(0 0 0 / 14%);
+}
+
+.btn {
+	margin-bottom: 15px;
+}
+
+label {
+	cursor: pointer;
+}
+
+.img-fluid {
+	border-radius: 15px;
+	box-shadow: 2px 5px 20px rgb(0 0 0 / 14%);
+}
+
+.form-group {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
