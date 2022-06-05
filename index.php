@@ -12,10 +12,14 @@
 
 	<title>Pic-A-Pic</title>
 	<!--
-	  Create a Pic-A-Pic page using a client/server event with GET.
-
-	  The user can select from three descriptions of pictures using radio buttons. Once submitted, the data will be sent to the server thru a GET for processing and return a page with the selected picture. Pick a theme and be creative! You can get a free, open source images from Wikimedia Images. Use CSS to create a pleasing presentation. Must contain the 2 files (an HTML and a PHP file).
-	-->
+	 Livingston Vincent U08A
+		What objectives are you demonstrating?
+	-Demonstrate common Web form properties, methods and elements
+	-Demonstrate how data is transmitted from the client to the server and back again
+	-Demonstrate the difference between POST and GET methods on transmitting data
+	-Demonstrate common PHP operators, conditional statements, and loops
+	-Demonstrate a simple client/server event with PHP and a Web page
+-->
 </head>
 <body>
  	
